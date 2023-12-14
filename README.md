@@ -1,5 +1,7 @@
 ## Aplicación para gestion de productos y sus fabricantes.
 
+App realizada completamente en php y estilos con bootstrap5
+
 #### Pasos para desplegar la aplicación
 
 1. Levantar el contenedor docker con el comando ```docker-compose up -d```.
